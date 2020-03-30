@@ -3,7 +3,7 @@
 This website is the reading notes for my *(Bade's)* Code Fellows class. Feel free to look through!
 
 How To Read
-> I prefer to write word definitions for my notes. I might also include examples of how to use specific coding concepts if I feel like it's relevant or helps my understanding of the concepts. Notes are separated by sections that correlate with chapters in Duckett's books. Code will be presented in the format below.
+> I prefer to write word definitions for my notes. I might also include examples of how to use specific coding concepts if I feel like it's relevant or helps my understanding of the concepts. Notes are separated by sections that correlate with class readings. They link to the pages for that class. Code will be presented in the format below.
 
 Coding Format
 ```
@@ -14,8 +14,7 @@ Coding Format
 **Nothing to be found here.**
 
 ## Code 201 - Foundations of Software Development
-### Introduction
-- 
+[**CLASS 01**](./class-01.md)
 
 ## Code 301 - Intermediate Software Development
 **Nothing to be found here.**
