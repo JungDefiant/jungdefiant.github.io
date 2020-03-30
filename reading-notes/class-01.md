@@ -1,19 +1,19 @@
 # Class 01 Notes
 ## HTML & CSS
 ### HTML: Introduction
-- X
+- **X:**
 
 ### Chapter 1: 'Structure'
-- X
+- **X:**
 
 ### Chapter 8: 'Extra Markup'
-- X
+- **X:**
 
 ### Chapter 17: 'HTML5 Layout'
-- X
+- **X:**
 
 ### Chapter 18: 'Process & Design'
-- X
+- **X:**
 
 ## JAVASCRIPT & JQUERY
 ### JS: Introduction
