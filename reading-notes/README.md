@@ -15,6 +15,7 @@ Coding Format
 
 ## Code 201 - Foundations of Software Development
 [**CLASS 01**](./class-01.md)
+
 [**CLASS 03**](./class-03.md)
 
 ## Code 301 - Intermediate Software Development
