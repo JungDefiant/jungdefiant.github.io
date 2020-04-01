@@ -1,11 +1,11 @@
 # Class 03 Notes
 ## HTML & CSS
 ### Chapter 3: "Lists"
-- **Statement:** This is a single line or step in a JS program.
+Lists can be added to HTML pages using the <ol> or <ul> tags. To list items, use <li>. Ordered lists use numbers or some sequential values to list items and unordered lists use bullets.
 
-### Chapter 10: "Boxes"
--
+### Chapter 13: "Boxes"
+CSS treats HTML pages as each element tag being in its own 'box'. The properties of these boxes can be modified through CSS stylings. These include modifying the width, height, min/max width, and min/max height. If the content of an element gets cramped, the overflow property can change how the element overflows, either hiding the content or adding a scrollbar. Other properties include border, margin, and padding, which can be used to control the external spacing of the box. These can be used to add white spacing and give clarity to your HTML page. The border can be customized using border-width, border-style, and border-color or these elements can be defined in the same line as the border being defined. Elements can be centered in particular areas of the page using text-align. Setting the alignment of the whole page can be done by putting text-align in the body tag. The display property treats inline elements like block elements and vice versa. The visibility property can hide or show elements. The border-image property sets the border to a specific image. The box-shadow property adds a drop shadow to boxes. The border-radius property can be used to round out the edges of boxes. Specific corners can be specified with this property and this can be used to create more complex shapes. Some earlier versions of Chrome, Firefox, or Safari may need the -moz-border-radius or -webkit-border-radius wih the same parameters as the original border-radius property.
 
 ## JAVASCRIPT & JQUERY
 ### Chapter 4: "Decisions and Loops"
--
+JavaScript has weak typing, which allows for variables to be re-assigned with values of a different data types, but causes type coercion, which makes their data types switch on-the-fly. There are different ways to evaluate conditions, including for loops, while loops, switches, and if-else statements. Loops or conditional statements can be stopped with *break*. Loops can be started from the top with *continue*.
