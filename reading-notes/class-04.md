@@ -12,4 +12,10 @@ X
 
 ## ARTICLES
 ### 6 Reasons for Pair Programming
-X
+Pair programming is where one developer is a Driver and one is a Navigator. The Driver writes the code and the Navigator directs what code is written or what needs to be fixed.
+- *Greater Efficiency:* Code produced through pair programming takes longer, but is less likely to need to be debugged. Furthermore, the developers may come up with solutions faster together than when they're alone.
+- *Engaged Collaboration:* The developers can hold each other accountable throughout the coding process to stay on track and they are less likely to ask for help from others when they are relying on each other.
+- *Learning From Other Students:* Each developer brings a different set of skills with them. Pair programming facilitates learning between the two developers that have different knowledge.
+- *Social Skills:* Communication is an important part of pair programming. As such, the developers learn to work with others through the process of communicating with each other, which is an essential skill in programming.
+- *Job Interview Readiness:* Many interview processes involve pair programming between an employee and an applicant as a way of seeing how an applicant works with others.
+- *Work Environment Readiness:* Companies don't need to train new developers who are already familiar with pair programming, where they might typically need to do this with CS graduates.
