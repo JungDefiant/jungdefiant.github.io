@@ -8,7 +8,7 @@ CSS has tools for controlling the positioning of elements of the page. The *posi
 
 ## JAVASCRIPT & JQUERY
 ### Chapter 3: "Functions, Methods, and Objects"
-X
+Functions are pieces of code intended to do something specific. Basic functions are declared in a *function declaration* and called later in the code. Functions can return values using the *return* statement (both arrays and single values) and it can accept variables used inside the function called *parameters*. The actual values passed to a function are called *arguments*. Functions can be defined inside variables as *anonymous functions*, or functions with no name. These are known as *function expressions*. There are also *IIFE*, or Immediately Invoked Function Expressions, which are function expressions called immediately after being declared inside a variable. Variables have two scopes: local and global. Local variables exist inside functions and take less memory. Global variables take more memory, since they exist as long as the webpage exists. Variables within the same scope have conflicts, otherwise they do not conflict. 
 
 ## ARTICLES
 ### 6 Reasons for Pair Programming
