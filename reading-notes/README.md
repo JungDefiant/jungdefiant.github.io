@@ -15,6 +15,7 @@ Coding Format
 
 ## Code 201 - Foundations of Software Development
 - [**CLASS 01**](./class-01.md)
+- [**CLASS 02**](./class-02.md)
 - [**CLASS 03**](./class-03.md)
 - [**CLASS 04**](./class-04.md)
 
