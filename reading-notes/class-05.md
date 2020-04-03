@@ -1,10 +1,10 @@
 # Class 05 Notes
 ## HTML & CSS
-### Chapter 4: "Links"
+### Chapter 5: "Images"
 X
 
-### Chapter 15: "Layouts"
+### Chapter 11: "Color"
 X
-## JAVASCRIPT & JQUERY
-### Chapter 3: "Functions, Methods, and Objects"
+
+### Chapter 12: "Text"
 X
