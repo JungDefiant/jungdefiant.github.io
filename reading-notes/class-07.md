@@ -1,4 +1,4 @@
-# Class 06 Notes
+# Class 07 Notes
 ## HTML & CSS
 ### Chapter 6: "Tables"
 Tables can be added to HTML pages to represent complex data. The basic HTML tags for table include *table*, *tr*, *td*, and *th*. *table* encloses the whole table as a single block, *tr* indicates the start of a row, *td* indicates a cell entry in a row, and *th* is the heading for a row or column. 
