@@ -22,6 +22,7 @@ Coding Format
 - [**CLASS 06**](./class-06.md)
 - [**CLASS 07**](./class-07.md)
 - [**CLASS 08**](./class-08.md)
+- [**CLASS 09**](./class-09.md)
 
 ## Code 301 - Intermediate Software Development
 **Nothing to be found here.**
