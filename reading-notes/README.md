@@ -26,6 +26,7 @@ Coding Format
 
 ## Code 301 - Intermediate Software Development
 - [**CLASS 02**](./301-class-02.md)
+- [**CLASS 03**](./301-class-03.md)
 
 ## Code 401 - Advanced Software Development
 **Nothing to be found here.**
