@@ -1,0 +1,10 @@
+# Class 03 Notes
+
+### Javascript Templating Language and Engine— Mustache.js with Node and Express
+Mustache is a specification of a type of 'templating language' that can be used to template HTML pages through JS. JSON can be piped into rendered HTML content to dynamically change data displayed on the page.
+
+### A Complete Guide to Flexbox
+Flexboxes are a type of display where the HTML blocks inside a container are arranged so that they adjust their height and width depending on how they fit into a page. How they are organized can be change through various properties, such as allowing elements to stretch, change order, align, and wrap around.
+
+### FLEXBOX FROGGY
+This game gave an in-depth look into how to code different Flexbox arrangements of HMTL blocks via CSS. It showed how flexboxes are a great way to give dynamic looks to websites and exert more control over the ordering of HTML elements. To use flexboxes however, it's important to know not only what each flexbox property does, but also how they interact with other properties. For example, in the last tutorial, giving 'flex-direction: column-reverse', 'align-content: center', and 'flex-wrap: wrap' would put the frogs in the right order, but on the wrong side. It's difficult to see which of these might be the culprit when they're combined together, but after breaking each of them down and understand how each of them have an effect on the frogs, changing flex-wrap to wrap-reverse will 'flip' them to the right side.
