@@ -34,6 +34,7 @@ Coding Format
 - [**CLASS 08**](./301-class-08.md)
 - [**CLASS 09**](./301-class-09.md)
 - [**CLASS 10**](./301-class-10.md)
+- [**CLASS 11**](./301-class-11.md)
 
 ## Code 401 - Advanced Software Development
 **Nothing to be found here.**
