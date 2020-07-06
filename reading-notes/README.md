@@ -10,9 +10,6 @@ Coding Format
 //This is how my coding examples will be displayed!
 ```
 
-## Code 102
-**Nothing to be found here.**
-
 ## Code 201 - Foundations of Software Development
 - [**CLASS 01**](./class-01.md)
 - [**CLASS 02**](./class-02.md)
@@ -38,4 +35,4 @@ Coding Format
 - [**CLASS 15**](./301-class-15.md)
 
 ## Code 401 - Advanced Software Development
-**Nothing to be found here.**
+- [**CLASS 01**](./401-class-01.md)
