@@ -37,3 +37,4 @@ Coding Format
 ## Code 401 - Advanced Software Development
 - [**CLASS 01**](./401-class-01.md)
 - [**CLASS 02**](./401-class-02.md)
+- [**CLASS 03**](./401-class-03.md)
