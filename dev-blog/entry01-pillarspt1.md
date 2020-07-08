@@ -18,6 +18,9 @@ My original inspiration was the experience of fighting in tactical combats again
 
 ---
 Bade Habib
+
 ```Physical embodiment of a nap. Consumes coffee like it's going out of style. Spends way too long on building D&D characters.```
+
 Twitter: @DefiantJung
+
 Github: JungDefiant
