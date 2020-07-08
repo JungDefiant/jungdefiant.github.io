@@ -21,6 +21,6 @@ My original inspiration was the experience of fighting in tactical combats again
 
 ```Physical embodiment of a nap. Consumes coffee like it's going out of style. Spends way too long on building D&D characters.```
 
-Twitter: @DefiantJung
+**Twitter:** @DefiantJung
 
-Github: JungDefiant
+**Github:** https://github.com/JungDefiant
