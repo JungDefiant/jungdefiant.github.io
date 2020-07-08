@@ -17,7 +17,7 @@ Here's a not-so-great example: *story* as a design pillar. There are a lot of wa
 My original inspiration was the experience of fighting in tactical combats against hordes of demons, each with their own unique quirks. I had to constantly change my tactics depending on who I was fighting and given the limited resources I had. Most of the loot was boring, but every now and again I would run into a piece of loot that gave me a huge power spike. I was close to dying a lot. I *did* die a couple of times. I had to decide between each fight whether I wanted to keep going. Each level after the first promised better loot, but greater challenges. At the core of the Lucifer RPG is this feeling of out-witting one's way through fatal challenges. With this inspiration in mind, I can create pillars that deliver on that promise.
 
 ---
-Bade Habib
+###Bade Habib
 
 ```Physical embodiment of a nap. Consumes coffee like it's going out of style. Spends way too long on building D&D characters.```
 
