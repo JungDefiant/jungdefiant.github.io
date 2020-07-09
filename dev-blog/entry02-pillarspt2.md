@@ -18,14 +18,14 @@ Loot accounts for 25% of your character's overall power. Everything else is dete
 ## Pillar 5: Every Effect Is Dynamic and Based In Narrative
 The goal is to avoid effects that are '+X damage' or '+X% resistance'. Every effect should feel more dynamic, such as '+X damage when something occurs' or '+X% resistance against specific effects'. Effects should also be based in narrative. What is the effect? Is it a flaming aura? An infusion of energy in a weapon? A shield of energy? Every effect starts with fluff and the mechanics are based on that description.
 
-## Pillar 6: Simplified Math
-You might have played RPG's where numbers reach hundreds or thousands or millions. Even RPG's that don't reach this amount can have complicated calculators weighed down by a dizzying number of factors. Often, the point of this is to look impressive, but it can make doing on-the-fly math complicated or impossible. One of this game's goals is to present the math in a way that is readable and that players can immediately understand the full impact (and consequences) of their actions. If information is missing, it will be done for tactical or strategic purposes - that's for you to piece together so that you can make the best choices possible.
+## Pillar 6: Clear Communication of Math and Effects
+You might have played RPG's where numbers reach hundreds or thousands or millions. Even RPG's that don't reach this amount can have complicated calculators weighed down by a dizzying number of passives. Often, the point of this is to look impressive, but it can make doing on-the-fly math complicated or impossible. One of this game's goals is to present the math in a way that is readable and that players can immediately understand the full impact (and consequences) of their choices. If information is missing, it will be done for tactical or strategic purposes - that missing information for you to piece together so that you can make the best choices possible.
 
 ## Pillar 7: Anime-Inspired Visuals With Surreal, Gothic Aesthetic
 Flashy anime-inspired visuals mix with a chimera of H.R. Giger, John Martin, and Marc Silvestri to create a unique, stylized world. 
 
 ## Pillar 8: Epic Emotional Story, Told As A Visual Novel
-The story is told through a visual novel format. It is focused on the personal struggles of Lucifer, Noctis, and the fallen angels in the midst of an epic conflict between Heaven and Hell.
+The story is told through a visual novel format. It is focused on the personal struggles of Lucifer, Noctis, and the fallen angels in the midst of an epic conflict between Heaven and Hell. The story is a re-interpretation of Paradise Lost. The themes are guilt, defiance, and alienation.
 
 ---
 ### Bade Habib
