@@ -3,8 +3,8 @@ WIP
 # Design Pillars : Part 2
 ## From Inspiration To Structure
 
-## Pillar 1: Risk-Reward Combat
-The combat is about taking risks. Less risky options are generally less effective. Later challenges will require you to take risks. Risk-mitigation is minimized in the design. Mitigation is generally in the form of defenses, such as healing or damage reduction or dodge. Mitigation is either limited in use, minimal value, or comes at a cost. 
+## Pillar 1: Risk-Reward Turn-Based Combat
+The combat is about taking risks. Less risky options are generally less effective. Later challenges will require you to take risks. Risk-mitigation is minimized in the design. Mitigation is generally in the form of defenses, such as healing or damage reduction or dodge. Mitigation is either limited in use, minimal value, or comes at a cost. The turn-based structure gives you time to plan your turn and weigh your decisions carefully.
 
 ## Pillar 2: Deterministic Luck
 All luck in the game is deterministic. reducing the punishment of randomness by making use of 1-in-X system. Rolling six dice and getting three 1's, two 2's, and a 4. Instead the system ensures that you get one of each result. This luck system is used for everything from loot to critical hits to damage ranges.
