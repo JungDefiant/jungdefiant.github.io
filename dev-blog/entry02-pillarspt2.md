@@ -15,7 +15,7 @@ Creative play between powers and the order they are used synergize with each oth
 ## Pillar 4: Builds Defined By Choices, Not Loot
 Loot accounts for 25% of your character's overall power. Everything else is determined by your character build.
 
-## Pillar 5: Every Effect Is Dynamic and Flavorful
+## Pillar 5: Every Effect Is Dynamic and Based In Narrative
 The goal is to avoid effects that are '+X damage' or '+X% resistance'. Every effect should feel more dynamic, such as '+X damage when something occurs' or '+X% resistance against specific effects'. Effects should also be based in narrative. What is the effect? Is it a flaming aura? An infusion of energy in a weapon? A shield of energy? Every effect starts with fluff and the mechanics are based on that description.
 
 ## Pillar 6: Simplified Math
