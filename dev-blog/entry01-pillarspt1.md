@@ -1,6 +1,6 @@
 # Design Pillars: Inspiration Isn't Enough, Part 1
 ## First, Some Background
-<p align="center"><img width=400 src="https://github.com/JungDefiant/jungdefiant.github.io/blob/master/dev-blog/dims.jpg?raw=true"></p>
+![](./dims.jpg)
 
 If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement.
 
