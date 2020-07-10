@@ -1,5 +1,5 @@
-## Early Mechanical Concepts
-These early concepts are ideas for mechanics I've come up with to satisfy six of the eight design pillars. Since the last two are artistic, they'll be out of scope for this article, but I'll definitely be writing future articles to cover them more in-depth.
+## Devising Concepts From Pillars
+X
 
 ### Character Building
 When deciding on a system for character-building, I researched a dizzying number of skill trees and character creation systems. And dang, are there are a lot of ways to make a character! As always, I like to over-think systems like these, so I've taken the time to break down what a character-building system is, why certain systems are designed the way they are, and what decisions I made in regards to Lucifer RPG.
@@ -7,7 +7,11 @@ When deciding on a system for character-building, I researched a dizzying number
 #### What Are Character-Building Systems?
 Character-building systems are progression systems that create characterization. I think what differentiates getting to the next level in Super Mario and spending a skill point in Diablo 2 is *characterization*. They're both progression systems, but everyone's Mario is the same (any difference depends on whose playing, not the progression system). In God Of War (2018), not everyone's Kratos is the same. He takes on a different character depending on what choices are made in his skill tree.
 
-*Investment* is also an important element of character-building systems. This might be in the form of skill points, but it could also mean gear found through countless hours of grind. Since the early days of D&D, this meant gold to buy better equipment and experience points to earn levels. In Diablo 2, investment meant spending points in skills and attributes. 
+*Investment* is also an important element of character-building systems. This might be in the form of skill points, but it could also mean gear found through countless hours of grind. Since the early days of D&D, this meant gold to buy better equipment and experience points to earn levels. In Diablo 2, investment meant spending points in skills and attributes.
+
+*Choice* is not a part of every character-building system, but it's something I think most of these systems should strive for. Of course, this can be difficult to build into a game. More often than not, the designers won't leave any choice up to the players. There isn't anything wrong with this approach. Designers have spent years on WoW and LoL, but no amount of nerfs or buffs can make every sensible character option viable. On the other side, you have systems like Pathfinder and D&D 3.5e. These games may attempt to maintain some illusion of balance, but there are so many options that the number of game-breaking builds are nearly endless. However, I think what D&D-inspired systems do well is having drawbacks for any choice you make. Typically, there's some investment or cost needed for power, especially spells. Most powerful builds require a lot of 'feat taxing' and meeting multi-class requirements. Even then, they usually have some weakness that can be exposed. 
+
+The worst mistake that a character-building system can have is designing only one optimal choice. If everyone is taking an option, then that option either needs to be standard for everyone or it needs to be changed. An example of this occurring is the Fitness power pool in City Of Heroes. In the early days of the superhero MMO, the options in this pool were so valuable that almost everybody took them. You were below average if you didn't take almost all the options in this tree. Eventually, the devs made them standard for every character. This has always stuck in my brain as the wisest move that designers could make about an option like this.
 
 #### Concept: Archetypes & Ranks
 I settled on something simple and reminiscent of the inspiration's source material. There are four classes, currently called 'archetypes', that you can progress up by investing ranks. Ranks are earned by spending dark shards, which are earned each time you complete a dungeon for the first time. 
