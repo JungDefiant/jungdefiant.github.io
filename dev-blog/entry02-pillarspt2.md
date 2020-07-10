@@ -27,10 +27,10 @@ In this game, narrative will come first and serve as an inspiration for the mech
 You may have played RPG's where numbers reach hundreds or thousands or millions. Even RPG's that don't reach this amount can have complicated calculators weighed down by a dizzying number of ability options, passives, and persistent effects. Often, the point of this is to look impressive or it's simply the result of a nuanced system. However, it can make doing on-the-fly math complicated or impossible. One of this game's goals is to present the 'under-the-hood' information in a way that is legible and trimmed-down. Players should immediately understand the full impact (and consequences) of their choices through information presented. If information is missing, it should be done for tactical or strategic purposes - that missing information is for the player to piece together so that they are challenged to make the best decision on their own.
 
 ### Pillar 7: Anime-Inspired Visuals With Surreal, Gothic Aesthetic
-The visuals and aesthetics take inspiration from the works of H.R. Giger, John Martin, Marc Silvestri, and shounen anime in a flashy, surreal, and gothic chimera.  
+The visuals and aesthetics will take inspiration from the works of H.R. Giger, John Martin, Marc Silvestri, and shounen anime in a flashy, surreal, and gothic chimera.  
 
 ### Pillar 8: Epic Emotional Story, Told As A Visual Novel
-The story is told through a visual novel format. This is due to both the scope of the project and the balance of visual and literary story-telling that visual novels offer. The story is focused on the personal struggles of Lucifer, Noctis, and the fallen angels in the midst of an epic conflict between Heaven and Hell. It is also a stylized re-interpretation of Paradise Lost, based around themes are guilt, defiance, and power dynamics.
+The story will be told through a visual novel format. This is due to both the scope of the project and the balance of visual and literary story-telling that visual novels offer. The story is focused on the personal struggles of Lucifer, Noctis, and the fallen angels in the midst of an epic conflict between Heaven and Hell. It is also a stylized re-interpretation of Paradise Lost, based around themes are guilt, defiance, and power dynamics.
 
 ---
 ### Bade Habib
