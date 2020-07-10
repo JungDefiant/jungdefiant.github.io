@@ -1,8 +1,6 @@
 ## Design Pillars : Part 2
 ### From Inspiration To Structure
-<p align="center">
-  <img width=400 src="./Dungeons_and_Dragons_game.jpg">
-</p>
+<img width=400 src="./Dungeons_and_Dragons_game.jpg">
 
 In the last entry of this blog, I talked about how I took inspiration from my playthrough of a hacked D&D game to make a game about Lucifer fighting his way out of Hell. I had to find what I enjoyed about the experience to understand the promise of this project: lethal 'high risk, high reward' combat, lucky breaks in the midst of imminent peril, and exciting loot finds. I also wanted to add design elements that I enjoy in other RPG's. I love spending hours finding synergies when building D&D characters. There are so many options to navigate and several nuances in the system to explore. After putting all these elements together, plus some random inspirations from 'things I like', I came up with these 8 design pillars.
 
@@ -16,9 +14,7 @@ All luck in the game will be deterministic, meaning all results in a random rang
 Choices in build options and actions taken in combat should encourage synergy. Character options such as loot, abilities, and classes should be modular to encourage a diversity of builds. Chaining together the right actions in combat should be rewarding, especially if it feels like you broke the game with your clever play. Often the concern with a system like this is whether balance can be maintained, but 'balance' is a subjective term. In the context of this game, balance refers to making every option feel useful in specific contexts. Each option should also have a trade-off, whether it be investment of skill points or the option itself having drawbacks.
 
 ### Pillar 4: Builds Defined By Player Choice, Not Loot
-<p align="center">
-  <img alt="Diablo 3. Player surrounded by tons of loot, indicated by orange beams of light on the ground." width=400 src="./legendary-beams-galore.jpg">
-</p>
+<img alt="Diablo 3. Player surrounded by tons of loot, indicated by orange beams of light on the ground." width=400 src="./legendary-beams-galore.jpg">
 
 In games like Diablo 3 and many MMO's, loot is often the defining trait of your character. Players are encouraged to build their character according to random loot drops. While this type of gameplay is valuable and fun in its own way, that focus on loot won't be the case with this game. As a rule of thumb, loot will only contribute up to 1/4 of a build's overall power. Each piece of loot should augment the way you play in an interesting way without being the star of the show. Loot can also serve as inspiration for new builds.
 
@@ -29,9 +25,7 @@ I'd like to start with a critique of an existing mechanic, before digging into t
 
 2) They aren't based in narrative. What does +10 Strength mean? +43 Strength? +185305 Strength? Eventually the numbers lose their meaning and sense of scale. Often, they don't make sense in terms of story either. Why does a robe deal damage back to incoming attackers? Why does a suit of armor make me better at getting more gold? These exist in games because mechanics are prioritized over its meaning in the game world. Often, 'well it's magic' is used as an easy excuse to make number-crunching mechanics. A particularly striking example of this narrative dissonance is in Champion Online's statistics system. So you can throw cars in the game if your Strength is high enough. But there is a problem with this system. See, everyone's stats scaled over time, regardless if you put points into them, and the devs didn't want to gate people from throwing cars too early. The side-effect is that you had skinny mad-scientist characters with the lowest Strength possible able to throw semi's the same as the hulking bruiser characters. The kind of numbers scaling found in most modern RPG's tied to facts about the character created narrative dissonance. Any illusion about who your character becomes broken because of the game's stat system prioritizing mechanics over narrative.
 
-<p align="center">
-  <img alt="Heroes fighting villains in Champions Online" width=400 src="./champions-online-us-tour-assets-pcscreenshots24914co-screen-062609-16.jpg">
-</p>
+<img alt="Heroes fighting villains in Champions Online" width=400 src="./champions-online-us-tour-assets-pcscreenshots24914co-screen-062609-16.jpg">
 
 In this game, narrative will come first and serve as an inspiration for the mechanics. Power will not scale based on a single number growing higher and higher, but rather the combination of different effects that add together. Effects will only give benefits in specific circumstances, as opposed to flat general bonuses, to make them more dynamic.
 
@@ -41,9 +35,7 @@ You may have played RPG's where numbers reach hundreds or thousands or millions.
 ### Pillar 7: Anime-Inspired Visuals With Surreal, Gothic Aesthetic
 The visuals of this game will take inspiration from the works of H.R. Giger, John Martin, Marc Silvestri, and shounen anime. One way to describe the goal of the game's visuals is a "flashy, surreal, gothic chimera".  
 
-<p align="center">
-  <img alt="Pandemonium by John Martin" width=400 src="./727px-John_Martin_002.jpg">
-</p>
+<img alt="Pandemonium by John Martin" width=400 src="./727px-John_Martin_002.jpg">
 
 ### Pillar 8: Epic Emotional Story, Told As A Visual Novel
 The game's story will be told through a visual novel format. This is due to both the scope of the project and the balance of visual and literary story-telling that visual novels offer. The story is focused on the personal struggles of Lucifer and several of his fellow fallen angels in the midst of an epic conflict between Heaven and Hell. It is also a stylized re-interpretation of Paradise Lost, based around themes of guilt, defiance, and power dynamics.
