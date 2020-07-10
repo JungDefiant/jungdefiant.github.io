@@ -18,7 +18,7 @@ Here's a negative example: *story* as a design pillar. There are a lot of ways t
 
 ## Revisiting Lucifer
 
-My original inspiration was the experience of fighting in tactical combats against hordes of demons. I had to constantly change my tactics depending on what I was fighting. My resources were limited and I had to manage them carefully. Every now and again I would get a windfall of power after finding loot that gave me a huge power-spike or scoring a critical hit while I'm near death. I was close to dying a lot. I *did* die a couple of times. I had to decide between each fight whether I wanted to keep going. Each level after the first promised better loot, but greater challenges. At the core of the Lucifer RPG is surviving fatal challenges through wits, resourcefulness, and luck. With this inspiration in mind, I can create pillars that deliver on that promise.
+My original inspiration was the experience of fighting in tactical combats against hordes of demons. I had to constantly change my tactics depending on what I was fighting. My resources were limited and I had to manage them carefully. Every now and again I would get an exhilirating stroke of luck after finding loot that gave me a huge power-spike or scoring a critical hit while on my last hit point. I was close to dying a lot. I *did* die a couple of times. I had to decide between each fight whether I wanted to keep going. Each level after the first promised better loot, but greater challenges. At the core of the Lucifer RPG is surviving fatal challenges through wits, resourcefulness, and luck. With this inspiration in mind, I can create pillars that deliver on that promise.
 
 In Part 2, I will talk about the design pillars for Lucifer RPG and how I decided on them.
 
