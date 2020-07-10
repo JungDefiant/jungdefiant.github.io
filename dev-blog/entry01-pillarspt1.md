@@ -1,6 +1,6 @@
 # Design Pillars : Part 1
 ## First, Some Background
-If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement. If you haven't seen this supplement, I highly recommend digging around for it (there are versions for 2e and 3e). 
+If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement.
 
 I enjoyed the lethality and simplicity of the thrown-together game, but hated simulating the rolls for monsters and loot. And oh boy, was there A LOT of rolling. So I thought to myself, "hey, I can code, why not make this into a little RPG combat sim???' I made the first build in 1-1/2 weeks and attempted to make it similar to KOTOR or NWN combat, which simulated turns in real-time. It was... boring. That's when I realized that the combat needed to be more interesting and I kept playing with the design. Things spun a bit out of control. It became a lot of different things after 6 months of development and I ran myself into the ground trying to figure out what this game is. I had to do something different, because my process kept leading me to dead ends.
 
