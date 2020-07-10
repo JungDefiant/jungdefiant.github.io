@@ -1,5 +1,5 @@
 # Design Pillars: Inspiration Isn't Enough, Part 1
-<p align="center"><img width=400 src="./dims.jpg"></p>
+![](./dims.jpg)
 
 If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement.
 
@@ -17,7 +17,6 @@ This is where inspiration is actually the most important part of the process. Yo
 Here's a negative example: *story* as a design pillar. There are a lot of ways to deliver on story and everyone has ideas on what makes an engaging story. It's too abstract and vague. How do we improve this? You could have *interactive story*, like many Bioware and Infinity Engine games. Maybe a *cinematic story*, like most AAA action and adventure games. You could even mix them together! Uncharted is a great example of a game series that depicts action sequences that are both interactive and cinematic to tell the story.
 
 ## Revisiting Lucifer
-![](./Paradise_Lost_12.jpg)
 
 My original inspiration was the experience of fighting in tactical combats against hordes of demons. I had to constantly change my tactics depending on what I was fighting. My resources were limited and I had to manage them carefully. Every now and again I would get a windfall of power after finding loot that gave me a huge power-spike or scoring a critical hit while I'm near death. I was close to dying a lot. I *did* die a couple of times. I had to decide between each fight whether I wanted to keep going. Each level after the first promised better loot, but greater challenges. At the core of the Lucifer RPG is surviving fatal challenges through wits, resourcefulness, and luck. With this inspiration in mind, I can create pillars that deliver on that promise.
 
