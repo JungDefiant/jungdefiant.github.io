@@ -1,4 +1,4 @@
-# Design Pillars : Part 1
+# Design Pillars: Inspiration Isn't Enough, Part 1
 ## First, Some Background
 <p align="center"><img width=400 height=280 src="./dims.jpg" /></p>
 
