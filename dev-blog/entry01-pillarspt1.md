@@ -1,6 +1,6 @@
 # Design Pillars : Part 1
 ## First, Some Background
-<p align="center"><img src="./dims.jpg" /></p>
+<p align="center"><img width=400 height=280 src="./dims.jpg" /></p>
 
 If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement.
 
