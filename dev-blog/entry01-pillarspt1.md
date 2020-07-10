@@ -1,4 +1,4 @@
-<h1>Design Pillars: Inspiration Isn't Enough, Part 1</h1>
+# Design Pillars: Inspiration Isn't Enough, Part 1
 <p align="center"><img width=400 src="./dims.jpg"></p>
 
 If you're reading this blog, this is the development blog for the computer RPG that I'm developing. The project is currently named 'Lucifer RPG' until I'm basically ready to release it into the world. I started the project in January 2020 after I was doing a solo-run of a hacked D&D game using a Diablo 2 supplement.
@@ -7,7 +7,7 @@ I enjoyed the lethality and simplicity of the thrown-together game, but hated si
 
 If there's anything I learned through 6 agonizing months of work on the project, it's that a game's design can be directionless and frustrating to work on if you don't have structure or vision. I was struck with the inspiration to make something, but I lost direction after I made it and realized inspiration isn't enough. Especially if you're spending several months on a project, inspiration will only get you through a couple of builds before you learn that your ideas suck. Iterating on a game's design is necessary, whether it be tabletop or electronic, but if you don't know what you're making, you're just spinning your wheels.
 
-<h2>Setting Design Pillars</h2>
+## Setting Design Pillars
 ![](./download.jpg)
 
 So, *design pillars*. You might have heard designers talk about design pillars. They're a useful, abstract device that designers use to build a game on and deliver on the experience that they want to give players. In any sort of product design, you might also hear *'promise pillars'* thrown around. In promise-based marketing, a product/brand/company will be advertised to deliver on a promise. This is the experience that the thing in question is committed to providing. When the experience isn't delivered, that promise isn't met. Games are all about delivering promises. In Skyrim, the promise is to make you feel like you're a fantasy hero in a seamless world. In Dance Dance Revolution, the promise is to feel like you're an awesome dancer. This experience is communicated through a game's mechanics.
