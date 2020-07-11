@@ -1,6 +1,4 @@
 ## Design Pillars: From Inspiration To Structure, Part 2
-![](./Dungeons_and_Dragons_game.jpg)
-
 In the last entry of this blog, I talked about how I took inspiration from my playthrough of a hacked D&D game to make a game about Lucifer fighting his way out of Hell. I had to find what I enjoyed about the experience to understand the promise of this project: lethal 'high risk, high reward' combat, lucky breaks in the midst of imminent peril, and exciting loot finds. I also wanted to add design elements that I enjoy in other RPG's. I love spending hours finding synergies when building D&D characters. There are so many options to navigate and several nuances in the system to explore. After putting all these elements together, plus some random inspirations from 'things I like', I came up with these 8 design pillars.
 
 ### Pillar 1: Turn-Based Combat Incentivizing Risk-Reward
@@ -13,8 +11,6 @@ All luck in the game will be deterministic, meaning all results in a random rang
 Choices in build options and actions taken in combat should encourage synergy. Character options such as loot, abilities, and classes should be modular to encourage a diversity of builds. Chaining together the right actions in combat should be rewarding, especially if it feels like you broke the game with your clever play. Often the concern with a system like this is whether balance can be maintained, but 'balance' is a subjective term. In the context of this game, balance refers to making every option feel useful in specific contexts. Each option should also have a trade-off, whether it be investment of skill points or the option itself having drawbacks.
 
 ### Pillar 4: Builds Defined By Player Choice, Not Loot
-![](./legendary-beams-galore.jpg)
-
 In games like Diablo 3 and many MMO's, loot is often the defining trait of your character. Players are encouraged to build their character according to random loot drops. While this type of gameplay is valuable and fun in its own way, that focus on loot won't be the case with this game. As a rule of thumb, loot will only contribute up to 1/4 of a build's overall power. Each piece of loot should augment the way you play in an interesting way without being the star of the show. Loot can also serve as inspiration for new builds.
 
 ### Pillar 5: Every Effect Is Dynamic and Based In Narrative
