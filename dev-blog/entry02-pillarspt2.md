@@ -1,4 +1,6 @@
 ## Design Pillars: From Inspiration To Structure, Part 2
+![](./727px-John_Martin_002.jpg)
+
 In the last entry of this blog, I talked about how I took inspiration from my playthrough of a hacked D&D game to make a game about Lucifer fighting his way out of Hell. I had to find what I enjoyed about the experience to understand the promise of this project: lethal 'high risk, high reward' combat, lucky breaks in the midst of imminent peril, and exciting loot finds. I also wanted to add design elements that I enjoy in other RPG's. I love spending hours finding synergies when building D&D characters. There are so many options to navigate and several nuances in the system to explore. After putting all these elements together, plus some random inspirations from 'things I like', I came up with these 8 design pillars.
 
 ### Pillar 1: Turn-Based Combat Incentivizing Risk-Reward
@@ -29,8 +31,6 @@ You may have played RPG's where numbers reach hundreds or thousands or millions.
 
 ### Pillar 7: Anime-Inspired Visuals With Surreal, Gothic Aesthetic
 The visuals of this game will take inspiration from the works of H.R. Giger, John Martin, Marc Silvestri, and shounen anime. One way to describe the goal of the game's visuals is a "flashy, surreal, gothic chimera".  
-
-<img alt="Pandemonium by John Martin" width=400 src="./727px-John_Martin_002.jpg">
 
 ### Pillar 8: Epic Emotional Story, Told As A Visual Novel
 The game's story will be told through a visual novel format. This is due to both the scope of the project and the balance of visual and literary story-telling that visual novels offer. The story is focused on the personal struggles of Lucifer and several of his fellow fallen angels in the midst of an epic conflict between Heaven and Hell. It is also a stylized re-interpretation of Paradise Lost, based around themes of guilt, defiance, and power dynamics.
