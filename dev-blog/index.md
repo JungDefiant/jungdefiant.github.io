@@ -7,3 +7,4 @@ My plan is to update with new content every Wednesday, Friday, and Sunday. Thank
 
 - [**Design Pillars: Inspiration Isn't Enough, Part 1 (7/8/20)**](./entry01-pillarspt1.md)
 - [**Design Pillars: From Inspiration To Structure, Part 2 (7/10/20)**](./entry02-pillarspt2.md)
+- [**Early Concept: Character-Building (7/13/20)**](./entry03-characterbuilding.md)
