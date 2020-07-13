@@ -39,3 +39,4 @@ Coding Format
 - [**CLASS 02**](./401-class-02.md)
 - [**CLASS 03**](./401-class-03.md)
 - [**CLASS 04**](./401-class-04.md)
+- [**CLASS 06**](./401-class-06.md)
