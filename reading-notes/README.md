@@ -50,3 +50,4 @@ Coding Format
 - [**Swagger & Unit Testing MVC**](./401-swagger.md)
 - [**JWT Tokens & Claims**](./401-jwt.md)
 - [**Identities**](./401-identity.md)
+ [**CLASS 14**](./401-class-26.md)
