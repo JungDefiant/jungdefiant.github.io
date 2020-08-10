@@ -46,3 +46,7 @@ Coding Format
 - [**CLASS 11**](./401-class-11.md)
 - [**CLASS 12**](./401-class-12.md)
 - [**CLASS 14**](./401-class-14.md)
+- [**Data Transfer Objects**](./401-dtos.md)
+- [**Swagger & Unit Testing MVC**](./401-swagger.md)
+- [**JWT Tokens & Claims**](./401-jwt.md)
+- [**Identities**](./401-identity.md)
