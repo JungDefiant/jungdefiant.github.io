@@ -1,0 +1,5 @@
+### Swagger & Testing
+
+When testing an ASP.NET MVC web server, a developer can create unit tests for controller logic by checking what *view data* is returned by methods in the controller. View data is the data that gets returned by a server in response to an HTTP request. In addition to checking whether view data was returned, a test could check that the contents of the view data match what is expected. A controller has dependencies down the line to a repository and database context, so often mock objects are passed in to represent a repository or entity. The purpose of testing the controller is to check whether the different components come together to deliver on an HTTP request through a specific method, not checking the whole framework. 
+
+Swagger/OpenAPI is a program that allows RESTful API calls to understand the source code of an API without digging into it. Namely, it is used for helping to create documentation and acts as living documentation. When implemented into a project, Swagger has a UI associated with it that shows all of the actions associated with an API and shows the formatting of HTTP requests with the API.
