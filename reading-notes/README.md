@@ -51,3 +51,4 @@ Coding Format
 - [**JWT Tokens & Claims**](./401-jwt.md)
 - [**Identities**](./401-identity.md)
 - [**CLASS 26**](./401-class-26.md)
+- [**CLASS 27**](./401-class-27.md)
