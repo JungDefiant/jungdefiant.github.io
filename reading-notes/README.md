@@ -52,3 +52,4 @@ Coding Format
 - [**Identities**](./401-identity.md)
 - [**CLASS 26**](./401-class-26.md)
 - [**CLASS 27**](./401-class-27.md)
+- [**CLASS 28**](./401-class-28.md)
