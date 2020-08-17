@@ -54,3 +54,4 @@ Coding Format
 - [**CLASS 27**](./401-class-27.md)
 - [**CLASS 28**](./401-class-28.md)
 - [**CLASS 29**](./401-class-29.md)
+- [**CLASS 31**](./401-class-31.md)
