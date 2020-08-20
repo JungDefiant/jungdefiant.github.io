@@ -1,0 +1,3 @@
+# DSA Review: Binary Search Trees
+
+Binary Search trees sort to the left or right depending on the value of the root node. However, in the case where new nodes are placed in ascending or descending order, the BST will end up looking more linear, since all of the nodes are placed on either the left or right side. This increases the likelihood of the BST's time complexity for searching to become O(n). One way to balance this BST is by using an AVL tree. This type of tree ensures that the height between a right or left subtree is not higher than 1. For example, if one node is height 0, another is height 1, and the last is height 3. The AVL tree balances these subtrees by 'rotating' the last node around the middle node, thereby balancing the tree.
