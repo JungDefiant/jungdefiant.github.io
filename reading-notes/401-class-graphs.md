@@ -10,3 +10,8 @@ In a complete graph, all of the nodes are connected to each other. In a connecte
 
 ## Acyclic vs Cyclic
 In a directed graph's cycle, the graph can be traversed and end up looping around itself. An acyclic graph is a directed graph that does not cycle on itself and a cyclic graph is a directed graph that **does** cycle on itself.
+
+## Representing Graphs
+In code, graphs can be represented as an *adjacency matrix* or an *adjacency list*. In an adjacency matrix, each node is represented as a 2d array in the form of a graph, where each row represents a node and each column is another node it can be connected to. The values of the array are the number of edges that the node has to the other node. In an adjacency list, each node is a linked list inside an array that contains each node that it has an edge to.
+
+
